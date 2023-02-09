@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bf48903-0a48-40d5-929c-29d2e55c410f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JPaint-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PaintSE450app/JPaint-sp1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JPaint-sp1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/controller/IJPaintController.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/controller/IJPaintController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/controller/JPaintController.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/controller/JPaintController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/CommandHistory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/EllipseShape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/ICommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/ICommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/IUndoable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/IUndoable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/MouseClick.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/RectangleShape.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/RectangleShape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/ShapeCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/TriangleShape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/commandStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/copyCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/deleteCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/drawCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/drawCommandStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/drawEllipse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/drawRectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/drawStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/drawTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/getShapeFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/groupCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/groupedShape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/moveCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/moveCommandStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/pasteCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/redoCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/selectCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/selectCommandStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/unGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/undoCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/model/ShapeColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/model/ShapeColor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/model/ShapeShadingType.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/model/ShapeShadingType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/model/ShapeType.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/model/ShapeType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/model/StartAndEndPointMode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/model/StartAndEndPointMode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/model/dialogs/ChoosePrimaryColorDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/model/dialogs/ChoosePrimaryColorDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/model/dialogs/ChooseSecondaryColorDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/model/dialogs/ChooseSecondaryColorDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/model/dialogs/ChooseShadingTypeDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/model/dialogs/ChooseShadingTypeDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/model/dialogs/ChooseShapeDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/model/dialogs/ChooseShapeDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/model/dialogs/ChooseStartAndEndPointModeDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/model/dialogs/ChooseStartAndEndPointModeDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/model/dialogs/DialogProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/model/dialogs/DialogProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/model/interfaces/IApplicationState.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/model/interfaces/IApplicationState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/model/interfaces/IDialogProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/model/interfaces/IDialogProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/model/persistence/ApplicationState.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/model/persistence/ApplicationState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/EventName$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/EventName$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/EventName$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/EventName$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/EventName$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/EventName$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/EventName$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/EventName$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/EventName$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/EventName$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/EventName.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/EventName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/gui/Gui.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/gui/Gui.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/gui/GuiWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/gui/GuiWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/gui/PaintCanvas.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/gui/PaintCanvas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/interfaces/IDialogChoice.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/interfaces/IDialogChoice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/interfaces/IEventCallback.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/interfaces/IEventCallback.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/interfaces/IGuiWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/interfaces/IGuiWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/interfaces/IUiModule.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/interfaces/IUiModule.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/interfaces/PaintCanvasBase.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2LR5fnelLcP4fbJQI2pd7hKTrNX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="JPaint-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bf48903-0a48-40d5-929c-29d2e55c410f" name="Changes" comment="" />
+      <created>1675821162820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675821162820</updated>
+      <workItem from="1675821165717" duration="128000" />
+      <workItem from="1675925051356" duration="528000" />
+      <workItem from="1675925971931" duration="351000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="4fd60196-cb73-44f0-b24b-c1855d75ff1a">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/sagar/JPaint-sp1 sagar (3)/JPaint-sp1 sagar (2)/JPaint-sp1 sagar/JPaint-sp1 sagar/src" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="4fd60196-cb73-44f0-b24b-c1855d75ff1a" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/Main.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
